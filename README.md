@@ -23,7 +23,7 @@ working on several projects that will showcase my growing skills software engine
 ###### Contact: worlddomination@milkman.cats
 
 Brief Description:
-Is his own boss, currently wondering what humans do all day, works 100 hours a week (he sleeps)
+Is his own boss, currently wondering what humans do all day, works 100 hours a week (sleeping)
 and has an odd affinity for bread sticks.
 
 ##### Checkout Some Repos - https://github.com/JayBW1?tab=repositories

@@ -8,7 +8,7 @@
 
 ###### Contact: jacobbartolywilliams@gamil.com
 
-#### *This Is The Boss*
+#### *This Is My Boss*
 
 <picture>
  <img alt="YOUR-ALT-TEXT" src="catbox.jpg">
